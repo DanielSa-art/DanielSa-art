@@ -1,21 +1,17 @@
 ````markdown
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    DANIEL SÁ // SYSTEM ONLINE                       ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0f172a,100:00f5ff&height=220&section=header&text=DANIEL%20SÁ&fontSize=58&fontColor=00f5ff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20SOFTWARE%20%7C%20DATA%20%7C%20FINANCE&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:00E5FF&text=DANIEL%20SÁ&fontColor=00E5FF&fontSize=58&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20SOFTWARE%20%7C%20DATA%20%7C%20FINANCE&descAlignY=60&descSize=17" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+DANIEL_OS...;%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+AI+%7C+DATA+%7C+SOFTWARE+%7C+FINANCE;%3E+BUILDING+THE+FUTURE+ONE+PROJECT+AT+A+TIME;%3E+WELCOME+TO+MY+DIGITAL+LAB." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=%3E+BOOTING+DANIEL_OS...;%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+AI+MODULE+INITIALIZED;%3E+DEVELOPER+MODE+ACTIVE;%3E+BUILDING+THE+FUTURE+WITH+CODE." alt="Typing Animation"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=DanielSa-art&label=SYSTEM%20VISITORS&color=00f5ff&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/DanielSa-art?label=FOLLOWERS&style=for-the-badge&color=111827&labelColor=050505" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/DanielSa-art?label=STARS&style=for-the-badge&color=00f5ff&labelColor=050505" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=DanielSa-art&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/DanielSa-art?style=for-the-badge&label=FOLLOWERS&logo=github&color=0f172a&labelColor=020617" alt="Followers"/>
 
 </div>
 
@@ -24,42 +20,53 @@
 ## `> SYSTEM.INIT()`
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║                     DANIEL // AI INTERFACE                       ║
-╠══════════════════════════════════════════════════════════════════╣
-║ STATUS       : ONLINE                                            ║
-║ ROLE         : Developer & Technology Enthusiast                 ║
-║ FOCUS        : AI • Software • Data • Finance                    ║
-║ ENVIRONMENT  : Python • JavaScript • TypeScript • Node.js        ║
-║ MISSION      : Build useful technology and keep evolving         ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                  DANIEL SÁ // SYSTEM                         ║
+╠══════════════════════════════════════════════════════════════╣
+║ STATUS       : ONLINE ✓                                     ║
+║ ROLE         : Developer in Training                         ║
+║ EDUCATION    : ADS + Administration                          ║
+║ FOCUS        : AI • Software • Data • Finance               ║
+║ STACK        : TypeScript • Python • JavaScript • Node.js   ║
+║ MISSION      : BUILD • LEARN • EVOLVE                       ║
+╚══════════════════════════════════════════════════════════════╝
 ````
 
 ---
 
 ## `> ABOUT_ME.exe`
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/terminal.gif"/>
-
 ### Olá, eu sou o Daniel 👋
 
-Sou estudante de **Administração** e **Análise e Desenvolvimento de Sistemas**, apaixonado pela interseção entre **tecnologia, inteligência artificial, dados e mercado financeiro**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Administração**, interessado na interseção entre **tecnologia, Inteligência Artificial, desenvolvimento de software, dados e finanças**.
 
-Gosto de transformar ideias em projetos, explorar novas tecnologias e entender como sistemas podem automatizar processos e gerar decisões melhores.
+Gosto de aprender construindo projetos e transformar conceitos em soluções práticas.
+
+Atualmente, estou focado em evoluir minhas habilidades técnicas, construir um portfólio cada vez mais sólido e explorar aplicações de tecnologia e IA no mundo real.
 
 ```python
 class Daniel:
 
     name = "Daniel Sá"
-    focus = ["AI", "Software", "Data", "Finance"]
-    languages = ["Python", "JavaScript", "TypeScript", "Java"]
+
+    education = [
+        "Análise e Desenvolvimento de Sistemas",
+        "Administração"
+    ]
+
+    interests = [
+        "Artificial Intelligence",
+        "Software Development",
+        "Data Analysis",
+        "Finance"
+    ]
+
     mindset = "Always learning"
+
     mission = "Build. Learn. Evolve."
 ```
 
-> `SYSTEM MESSAGE:` **O objetivo não é apenas aprender tecnologia. É construir algo com ela.**
-
-<br clear="right"/>
+> **"The future is built, not predicted."**
 
 ---
 
@@ -67,96 +74,110 @@ class Daniel:
 
 <div align="center">
 
-### Languages
+### PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java&theme=dark"/>
 
-### Frameworks & Runtime
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+### WEB & BACKEND
 
-### Database & Data
+<img src="https://skillicons.dev/icons?i=html,css,nodejs&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" />
+<br><br>
 
-### Tools & Environment
+### DATABASE
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql&theme=dark"/>
 
-### Data & Productivity
+<br><br>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+
+<br><br>
+
+### DATA & BUSINESS
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-00F5FF?style=for-the-badge&logo=fastapi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </div>
 
 ---
 
-# `> TOOLS.exe`
+# `> CURRENT_FOCUS`
 
-| Tool                | Purpose                               |
-| ------------------- | ------------------------------------- |
-| 🐍 **Python**       | Automação, lógica, dados e IA         |
-| 🟨 **JavaScript**   | Desenvolvimento web                   |
-| 🔷 **TypeScript**   | Aplicações e APIs                     |
-| 🟢 **Node.js**      | Backend e automação                   |
-| 🐘 **PostgreSQL**   | Banco de dados                        |
-| 📊 **Power BI**     | Análise e visualização de dados       |
-| 🐙 **Git & GitHub** | Versionamento e colaboração           |
-| 🧠 **AI APIs**      | Integração de inteligência artificial |
-| 💻 **VS Code**      | Desenvolvimento                       |
+```bash
+daniel@future:~$ ./mission.sh
+
+[01] Artificial Intelligence
+     └─ Exploring AI APIs and intelligent applications
+
+[02] Software Development
+     └─ Improving programming and application architecture
+
+[03] Data Analysis
+     └─ Python • Power BI • Data
+
+[04] Technology + Finance
+     └─ Exploring FinTech and financial applications
+
+[05] Portfolio
+     └─ Building real projects and continuously improving
+
+STATUS: LEARNING
+STATUS: BUILDING
+STATUS: EVOLVING
+```
 
 ---
 
-# `> PROJECTS`
+# `> FEATURED_PROJECTS`
 
 <div align="center">
 
 <a href="https://github.com/DanielSa-art/Calculadora-Financeira">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielSa-art&repo=Calculadora-Financeira&theme=transparent&hide_border=true&title_color=00f5ff&icon_color=00f5ff&text_color=9ca3af"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielSa-art&repo=Calculadora-Financeira&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=94A3B8"/>
+
 </a>
 
-<a href="https://github.com/DanielSa-art">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielSa-art&repo=resumidora&theme=transparent&hide_border=true&title_color=00f5ff&icon_color=00f5ff&text_color=9ca3af"/>
+<a href="https://github.com/DanielSa-art/resumidoria">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielSa-art&repo=resumidoria&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=94A3B8"/>
+
 </a>
 
 </div>
 
 ### 💰 Calculadora Financeira
 
-Aplicação desenvolvida para realizar cálculos financeiros de forma simples e prática.
+Calculadora desenvolvida em **TypeScript** para simulação de:
 
-**Stack:** `JavaScript` `HTML` `CSS`
+* Juros simples
+* Juros compostos
+* Rendimento atrelado ao CDI
+* Simulações financeiras
 
-### 🤖 Resumidora
+Possui interface web e proposta de CLI interativa.
 
-Projeto desenvolvido em **TypeScript + Node.js**, utilizando uma API de inteligência artificial para automatizar a criação de resumos.
+**Stack:** `TypeScript`
 
-**Stack:** `TypeScript` `Node.js` `AI API`
+[→ Ver projeto](https://github.com/DanielSa-art/Calculadora-Financeira)
 
 ---
 
-# `> CURRENT_MISSION`
+### 🤖 Resumidoria
 
-```bash
-$ daniel@future:~$ ./mission.sh
+Script desenvolvido em **TypeScript + Node.js** que utiliza a **API da Anthropic (Claude)** para gerar resumos automáticos de textos e artigos.
 
-[■■■■■■■■■■■■■■■■■■■■] SYSTEM GOALS
+O projeto utiliza `fetch()` nativo para realizar as requisições à API, sem SDK externo.
 
-01 → Evoluir em desenvolvimento de software
-02 → Aprofundar conhecimentos em Inteligência Artificial
-03 → Desenvolver projetos reais
-04 → Aprimorar Data Analysis & Power BI
-05 → Explorar tecnologia aplicada ao mercado financeiro
-06 → Construir um portfólio cada vez mais forte
+**Stack:** `TypeScript` `Node.js` `Anthropic API`
 
-> STATUS: LEARNING
-> STATUS: BUILDING
-> STATUS: EVOLVING
-
-$ echo "The future is built, not predicted."
-```
+[→ Ver projeto](https://github.com/DanielSa-art/resumidoria)
 
 ---
 
@@ -164,17 +185,9 @@ $ echo "The future is built, not predicted."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielSa-art&show_icons=true&hide_border=true&bg_color=00000000&title_color=00f5ff&icon_color=00f5ff&text_color=9ca3af&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DanielSa-art&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=00E5FF&text_color=94A3B8&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSa-art&layout=compact&hide_border=true&bg_color=00000000&title_color=00f5ff&text_color=9ca3af&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DanielSa-art&theme=transparent&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=9CA3AF&dates=6B7280" width="70%"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSa-art&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=94A3B8"/>
 
 </div>
 
@@ -182,7 +195,15 @@ $ echo "The future is built, not predicted."
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielSa-art&bg_color=00000000&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true&custom_title=DANIEL%20S%C3%81%20%E2%80%94%20ACTIVITY%20MATRIX" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=DanielSa-art&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=94A3B8&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" width="72%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielSa-art&bg_color=020617&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=DANIEL%20S%C3%81%20%E2%80%94%20ACTIVITY%20MATRIX" width="95%"/>
 
 </div>
 
@@ -192,7 +213,7 @@ $ echo "The future is built, not predicted."
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DanielSa-art&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DanielSa-art&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
 
 </div>
 
@@ -202,11 +223,33 @@ $ echo "The future is built, not predicted."
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DanielSa-art/DanielSa-art/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/DanielSa-art/DanielSa-art/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
 
 </div>
 
-> **Tip:** Para ativar a Snake Animation, configure o workflow do repositório `.github/workflows/snake.yml`.
+---
+
+# `> TERMINAL`
+
+```bash
+daniel@github:~$ whoami
+
+Daniel Sá
+
+daniel@github:~$ cat mission.txt
+
+Learn continuously.
+Build real projects.
+Explore Artificial Intelligence.
+Combine technology and business.
+Create useful solutions.
+
+daniel@github:~$ ./future.sh
+
+[████████████████████████████████] 100%
+
+SYSTEM STATUS: EVOLVING...
+```
 
 ---
 
@@ -214,16 +257,12 @@ $ echo "The future is built, not predicted."
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://github.com/DanielSa-art">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/GitHub-DanielSa--art-020617?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
-<a href="mailto:seuemail@example.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
+<a href="https://www.linkedin.com/in/daniel-s%C3%A1-6b78bb33b/">
+<img src="https://img.shields.io/badge/LinkedIn-Daniel%20S%C3%A1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -232,27 +271,15 @@ $ echo "The future is built, not predicted."
 
 <div align="center">
 
-### `> SYSTEM.STATUS`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE+%E2%9C%93;AI+MODULE+ACTIVE+%E2%9C%93;DEVELOPER+MODE+ACTIVE+%E2%9C%93;KEEP+BUILDING." alt="System Status"/>
 
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│     ██████╗  █████╗ ███╗   ██╗██╗███████╗██╗       │
-│     ██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║       │
-│     ██║  ██║███████║██╔██╗ ██║██║█████╗  ██║       │
-│     ██║  ██║██╔══██║██║╚██╗██║██║██╔══╝  ██║       │
-│     ██████╔╝██║  ██║██║ ╚████║██║███████╗███████╗  │
-│     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝  │
-│                                                      │
-│                 SYSTEM ONLINE // 2026               │
-╰──────────────────────────────────────────────────────╯
-```
+<br><br>
 
-**`BUILD • LEARN • CREATE • EVOLVE`**
+`BUILD` • `LEARN` • `CREATE` • `EVOLVE`
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:0f172a,100:050505&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,50:0f172a,100:020617&section=footer" width="100%"/>
 
 </div>
 ```
